@@ -14,7 +14,7 @@ const FeesExplained = props => {
       <p className={css.lastUpdated}>Last updated: November 18, 2019</p>
 
       <p>
-        Test 111111111
+        Test 2222222222
       </p>
 
       <h2>1 Lorem ipsum dolor sit amet</h2>
